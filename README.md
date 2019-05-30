@@ -1,2 +1,2 @@
 # html
-just knowing what repository is 
+just knowing what repositories is 
